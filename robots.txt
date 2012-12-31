@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://detecti1914.github.com/sitemap.xml 
